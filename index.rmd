@@ -1,0 +1,13 @@
+---
+
+#10:00 Section
+Charles Redmond
+October 15, 2017
+
+Here is some arithmetic:
+```{r}
+x<-7
+y<-9
+x-cos(y)
+```
+
